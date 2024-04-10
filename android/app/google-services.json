@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972955272440",
+    "project_id": "music-player-558d3",
+    "storage_bucket": "music-player-558d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972955272440:android:b81c4d830baa1005e5670d",
+        "android_client_info": {
+          "package_name": "com.yasindp.music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkqobM9K8IF3mX3tIC3-7J1Mut8OHNYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

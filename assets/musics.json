@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "title": "Welcome to Newyork",
+      "image": "assets/images/thumbnails/welcome-to-newyork.jpg",
+      "path": "assets/musics/01 Welcome To New York.mp3",
+      "category": "hipHop",
+      "artist": "Taylor Swift",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "2",
+      "title": "Selena Gomez & The Scene - Who Says",
+      "image": "assets/images/thumbnails/scene-who-says.jpg",
+      "path": "assets/musics/078 Selena Gomez & The Scene - Who Says.mp3",
+      "category": "rock",
+      "artist": "Selena Gomez",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "3",
+      "title": "Alan Walker _ Ava Max - Alone_ Pt. II(MP3_160K)",
+      "image": "assets/images/thumbnails/alan-walker-alone.jpg",
+      "path": "assets/musics/Alan Walker _ Ava Max - Alone_ Pt. II(MP3_160K).mp3",
+      "category": "pop",
+      "artist": "Alan Walker",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "4",
+      "title": "Alan Walker_ K-391 _ Emelie Hollow - Lily (Lyrics)(MP3_160K)",
+      "image": "assets/images/thumbnails/alan-walker-lily.jfif",
+      "path": "assets/musics/Alan Walker_ K-391 _ Emelie Hollow - Lily (Lyrics)(MP3_160K).mp3",
+      "category": "classic",
+      "artist": "Alan Walker",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "5",
+      "title": "Alan_Walker_-_Faded_128_16842960",
+      "image": "assets/images/thumbnails/alan-walker-faded.jfif",
+      "path": "assets/musics/Alan_Walker_-_Faded_128_16842960.mp3",
+      "category": "electronic",
+      "artist": "Alan Walker",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "6",
+      "title": "Ariana_Grande_ft._Mac_Miller-The_Way_(www.mp3.vet)",
+      "image": "assets/images/thumbnails/ariana-grande-the-way.png",
+      "path": "assets/musics/Ariana_Grande_ft._Mac_Miller-The_Way_(www.mp3.vet).mp3",
+      "category": "ambient",
+      "artist": "Ariana Grande",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "7",
+      "title": "As Long as You Love Me",
+      "image": "assets/images/thumbnails/bb-love-me.jfif",
+      "path": "assets/musics/As Long as You Love Me.mp3",
+      "category": "hipHop",
+      "artist": "Backstreet Boys",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "8",
+      "title": "Backstreet Boys - I Want It That Way",
+      "image": "assets/images/thumbnails/bb-want-it.jfif",
+      "path": "assets/musics/Backstreet Boys - I Want It That Way.mp3",
+      "category": "rock",
+      "artist": "Backstreet Boys",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "9",
+      "title": "Backstreet Boys - show me the meaning of being lonely",
+      "image": "assets/images/thumbnails/bb-show-me.jfif",
+      "path": "assets/musics/Backstreet Boys - show me the meaning of being lonely.mp3",
+      "category": "pop",
+      "artist": "Backstreet Boys",
+      "isFavorite": false,
+      "isAsset": true
+    },
+    {
+      "id": "10",
+      "title": "Backstreet_Boys_-_Snow_Me_The_Meaning_Of_Bein_Lonely_(Premium) - Copy",
+      "image": "assets/images/thumbnails/bb-show-me.jfif",
+      "path": "assets/musics/Backstreet_Boys_-_Snow_Me_The_Meaning_Of_Bein_Lonely_(Premium) - Copy.mp3",
+      "category": "classic",
+      "artist": "Backstreet Boys",
+      "isFavorite": false,
+      "isAsset": true
+    }
+  ]
