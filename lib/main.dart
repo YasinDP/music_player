@@ -26,7 +26,13 @@ Future<void> main() async {
             appId: "1:972955272440:web:e755ed2cec5732cee5670d",
             // measurementId: "G-ZPTPYGG91Z",
           )
-        : null,
+        : const FirebaseOptions(
+            apiKey: 'AIzaSyBdkqobM9K8IF3mX3tIC3-7J1Mut8OHNYM',
+            appId: '1:972955272440:android:b81c4d830baa1005e5670d',
+            messagingSenderId: '972955272440',
+            projectId: 'music-player-558d3',
+            storageBucket: 'music-player-558d3.appspot.com',
+          ),
   );
 
   // Listen for Auth changes and .refresh the GoRouter [router]
